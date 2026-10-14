@@ -6,8 +6,11 @@
 - Interests: AI agents · physics-informed ML · energy and industrial forecasting · anomaly detection on sensor data · trustworthy AI in high-stakes settings · HPC
 - Peer-reviewed research in physics, energy, engineering and finance
 
+> **A note on this profile:** My production work (medical diagnostics, credit-risk, anti-money-laundering models, AI agents etc) was built in employers' private GitLab and internal repositories. The featured projects are standalone examples on open data. I'm happy to walk through my professional work in conversation.
+
 #### Featured projects
 
+| Project | Description |
 |---|---|
 | **[research-radar](https://github.com/faazeli/research-radar)** | LLM agent (LangGraph + LlamaIndex) that watches arXiv and PubMed, scores new papers against a plain-English brief, and writes cited digests. Provider-agnostic: Claude, OpenAI, or a local model via Ollama (23 papers screened in 25 s on a 3B model). |
 | **[shale-decline-ml](https://github.com/faazeli/shale-decline-ml)** | Physics vs. ML for forecasting 565 real Marcellus gas wells from their first months. ML halves the error inside its training range but over-predicts by 31% beyond it; "ML inside the data, physics outside it" wins both (15% error, +1% bias). |
