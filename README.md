@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there
 
 **Applied AI & machine-learning leader in Calgary.** I build AI that has to work on real sensor data and real decisions: medical diagnostics from spectrometer data, AI agents and automated intelligence reports, and before that credit-risk and anti-money-laundering models at a Tier-1 Canadian bank. My background is physics and engineering: a PhD in applied mathematics and scientific computing, GPU-accelerated fluid simulations, and degrees in aerospace and mechanical engineering.
 
-- 🔬 Head of Machine Learning, Data Science & AI at a medical-technology company
-- 🧠 Interests: AI agents · physics-informed ML · energy and industrial forecasting · anomaly detection on sensor data · trustworthy AI in high-stakes settings · HPC
-- 📚 Peer-reviewed research in physics, energy, engineering and finance
+- Head of Machine Learning, Data Science & AI at a medical-technology company
+- Interests: AI agents · physics-informed ML · energy and industrial forecasting · anomaly detection on sensor data · trustworthy AI in high-stakes settings · HPC
+- Peer-reviewed research in physics, energy, engineering and finance
 
 #### Featured projects
 
