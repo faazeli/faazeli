@@ -8,7 +8,6 @@
 
 #### Featured projects
 
-| | |
 |---|---|
 | **[research-radar](https://github.com/faazeli/research-radar)** | LLM agent (LangGraph + LlamaIndex) that watches arXiv and PubMed, scores new papers against a plain-English brief, and writes cited digests. Provider-agnostic: Claude, OpenAI, or a local model via Ollama (23 papers screened in 25 s on a 3B model). |
 | **[shale-decline-ml](https://github.com/faazeli/shale-decline-ml)** | Physics vs. ML for forecasting 565 real Marcellus gas wells from their first months. ML halves the error inside its training range but over-predicts by 31% beyond it; "ML inside the data, physics outside it" wins both (15% error, +1% bias). |
