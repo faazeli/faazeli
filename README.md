@@ -12,6 +12,7 @@
 
 | Project | Description |
 |---|---|
+| **[ai-agent-platforms-on-gcp](https://github.com/faazeli/ai-agent-platforms-on-gcp)** | Open course in ten phases: build CostPilot, a FinOps multi-agent platform on Google Cloud, from FOCUS cost data in BigQuery to MCP tools, ADK and LangGraph agents, Zero Trust security, and GitOps canaries gated by agent evals. Every phase has labs, a starter and a reference solution checked by 216 tests in CI. |
 | **[research-radar](https://github.com/faazeli/research-radar)** | LLM agent (LangGraph + LlamaIndex) that watches arXiv and PubMed, scores new papers against a plain-English brief, and writes cited digests. Provider-agnostic: Claude, OpenAI, or a local model via Ollama (23 papers screened in 25 s on a 3B model). |
 | **[shale-decline-ml](https://github.com/faazeli/shale-decline-ml)** | Physics vs. ML for forecasting 565 real Marcellus gas wells from their first months. ML halves the error inside its training range but over-predicts by 31% beyond it; "ML inside the data, physics outside it" wins both (15% error, +1% bias). |
 | **[sensor-drift-monitor](https://github.com/faazeli/sensor-drift-monitor)** | Fault detection and drift monitoring on 36 months of real gas-sensor-array data. Benchmarks PCA-SPE/T², Isolation Forest and a PyTorch autoencoder, and shows that drift invisible per reading is obvious per batch. |
